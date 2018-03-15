@@ -2,7 +2,7 @@
 
 This allow define urls Http using [url-resolver](https://github.com/mbamobi/url-resolver) to make request Http and intercept with plugins/events to analisy responses
 
-## Using HttpModule in an Ionic 2 app
+## Using HttpModule in an Angular4 app
 
 ```typescript
 import { NgModule } from '@angular/core';
